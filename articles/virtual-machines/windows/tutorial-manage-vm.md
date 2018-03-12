@@ -3,7 +3,7 @@ title: Create and Manage Windows VMs with the Azure PowerShell module | Microsof
 description: Tutorial - Create and Manage Windows VMs with the Azure PowerShell module
 services: virtual-machines-windows
 documentationcenter: virtual-machines
-author: iainfoulds
+author: mbender
 manager: jeconnoc
 editor: tysonn
 tags: azure-resource-manager
